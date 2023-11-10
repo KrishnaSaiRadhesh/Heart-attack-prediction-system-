@@ -6,9 +6,11 @@
 
 
 - Here in this first image i have entered values and clicked the predict button.
+  
 ![image](https://github.com/KrishnaSaiRadhesh/Heart-attack-prediction-system-/assets/109035471/e6b6b308-b78e-404b-9632-05c8e592ff1c)
 
-- In this image it shows the prediction score...
+- In this image it shows the prediction percentage...
+  
 ![image](https://github.com/KrishnaSaiRadhesh/Heart-attack-prediction-system-/assets/109035471/280089ae-109c-44f8-8f81-c7b21f066f6b)
 
 
