@@ -1,6 +1,5 @@
 # Early Identification of Stroke : Project Overview🎯
 **A web application to predict the chances of getting stroke by a patient based on other health factors like hypertension, Smoking habit, etc.**
-- Live app :- https://stroke--prediction.herokuapp.com/home
 - The model was trained and validated on 5100+ patient health records. 
 - Achieved True Positive rate of 0.77 and F1 score of 0.24
 
@@ -26,7 +25,6 @@
 - HTML
 - CSS
 - BootStrap 
-- Deployed on Heroku cloud
 
 # Installation☢
 Step 1: Download zip file and extract
