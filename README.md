@@ -24,7 +24,8 @@
 - Flask
 - HTML
 - CSS
-- BootStrap 
+- BootStrap
+- Deployed on Heroku cloud
 
 # Installation☢
 Step 1: Download zip file and extract
